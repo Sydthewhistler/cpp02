@@ -19,7 +19,7 @@ class Fixed
 	private :
 
 	int m_nb;
-	static const int m_bitnb;
+	static const int m_bitnb = 8;
 
 
 };
